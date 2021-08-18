@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Chrome Extension",
+  "action": {
+    "default_popup": "ChromeExtension.html"
+  },
+  "permissions": ["tabs"]
+}
